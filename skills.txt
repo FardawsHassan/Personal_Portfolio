@@ -1,0 +1,30 @@
+VERSION CONTROL SYSTEM: 
+- Git
+- GitHub
+
+DATABASE:
+- MySQL
+- SQLite
+- MongoDB
+
+DESIGN PATTERN:
+- MVC
+
+BACK-END: 
+- Django
+- Flask
+- Raw PHP
+
+FRONT-END: 
+- JavaScript
+- jQuery
+- Ajax
+- HTML5
+- CSS3
+- Bootstrap
+
+DEV-OPS:
+- Docker
+- Git
+- Figma
+- AWS
